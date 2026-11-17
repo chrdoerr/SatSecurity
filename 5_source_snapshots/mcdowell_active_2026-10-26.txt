@@ -1,0 +1,21 @@
+Source: Jonathan C. McDowell, "Satellite statistics: Satellite and Debris Population", Jonathan's Space Pages
+URL: https://planet4589.org/space/stats/active.html
+Retrieved: 15 Nov 2026 (page states "Data as of 2026 Oct 26")
+Extract of the data block (values only):
+
+Data as of 2026 Oct 26
+Active satellites: 17099
+Active Starlinks, orbit: 11148
+Other active maneuverable payloads, orbit: 3669
+Active non-maneuverable payloads, orbit: 2281
+Total all active payloads, orbit: 17098
+Dead Starlinks, orbit: 13
+Other dead satellite payloads, orbit: 3072
+Dead payloads, orbit, marginal cases: 13
+Total all active and dead payloads, orbit: 20196
+Rocket stages, orbit: 2067
+Sat components, orbit: 1543
+Cataloged debris, orbit: 11140
+[ASAT debris:] 2652
+[Collision debris:] 762
+Total cataloged objects, orbit: 34946

@@ -1,0 +1,19 @@
+# Interview guide for counterspace threat experts (original English version)
+
+Phase 2. English version of the guide as used in the interviews; the purpose column is in German in the original. Appendix A of the paper reproduces this text.
+
+[Datum] · [Interviewperson]
+
+| Zweck | Inhalt/Fragen |
+|---|---|
+| Begrüßung | – Thank you for accepting the interview and introduce myself<br>– present the research topic with a focus on the first research question<br>– explain why I have contacted the interviewee, mention relevant research<br>– inform and ask for permission regarding audio recording of the interview<br>– inform them that this series of interviews will not be anonymized<br>– are there any questions |
+| Legitimierung der Aufnahme | [Start recording.]<br>Again for the record: do you agree to the recording of our conversation? |
+| Einblick in das Forschungsfeld | There are many different ways and research fields that address satellite security. How would you describe what your focus point is? |
+| Einblick in das Bedrohungsumfeld | I have prepared a list of threats to satellites that I would like to talk to you about. But before that, as a general question: How do you perceive the current threat situation for satellites? By threat I mean natural threats and man-made threats, intended and unintended threats alike. |
+| Erfassung der Eintrittswahrscheinlichkeit jedes Bedrohungstyps + Einholung von Feedback zur Taxonomie | I will now share a list of threats against satellites and would like to focus on the probability of occurrence of these threats.<br>[Start sharing screen.]<br>And my question is: What is the current probability of occurrence for each satellite threat or attack? And is there a need for differentiation according to the operational domain of the satellite? I have prepared a scale, which you see on the side, it ranks from 0 (meaning impossible) to 5 (meaning certain), that at least once within a year from now, the threat will occur towards the satellite/satellites within that one mission.<br>[Clarify the focus once again and go through the list once to explain each threat, if necessary. The interviewee can start where they want.]<br>Follow-up questions, if time remaining:<br>– What is the first thing (threat type, orbit etc.) you think of here?<br>– Where does the orbit make a difference in the probability of occurrence?<br>– Counterspace in relation to other threats?<br>– Are there large or small variances?<br>– Why were the highest and lowest chosen?<br>– Should e.g. cyber be more differentiated?<br>Is there a threat or differentiation you think is missing from this list? |
+| Einblick in Bedrohungsbewusstseinswahrnehmung | Now, with regard to the respective satellite stakeholders and operators. How do you perceive the current threat awareness of them compared to the threat situation you are familiar with? And would you differentiate between the different satellite operational domains? |
+| Prüfung der bisherigen Erarbeitung zum Informationsdefizit | How much of the actual worldwide counterspace activities and capabilities do we, as a society, currently capture through efforts like open-source intelligence and really understand its intended use? What would you say in percentage? |
+| Ermittlung der erwarteten, zukünftigen Bedrohungslage | We have talked about the counterspace threats and their probability of occurrence for current satellite missions. What developments do you expect in the threat landscape in the coming years, up to 2030? |
+| Ende | [Stop sharing screen.]<br>Is there anything else you would like to add to what we talked about today?<br>[End recording.]<br>– Thank you for taking the time today<br>– ask for recommended further interview partners. |
+
+[The rating sheet shown on the shared screen during the interview is included as a figure in the original and not reproduced here.]

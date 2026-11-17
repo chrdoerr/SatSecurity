@@ -1,0 +1,16 @@
+Source: ESA Space Debris Office, "Space Environment Statistics", Space Debris User Portal (DISCOSweb)
+URL: https://sdup.esoc.esa.int/discosweb/statistics/
+Retrieved: 16 Nov 2026 (page states "Last update: 13 November 2026")
+Extract of the block "Space debris by the numbers" (values only):
+
+Number of rocket launches since the start of the space age in 1957: about 7420 (excluding failures)
+Number of satellites these rocket launches have placed into Earth orbit: about 28830
+Number of these still in space: about 19760
+Number of these still functioning: about 15800
+Number of space objects regularly tracked by Space Surveillance Networks and maintained in their catalogue: about 47270
+Estimated number of break-ups, explosions, collisions, or anomalous events resulting in fragmentation: more than 660
+Total mass of all space objects in Earth orbit: more than 17600 tonnes
+Estimated by statistical models (MASTER-8, reference population 02/2026):
+  68450 space objects greater than 10 cm (including approx. 11300 active payloads)
+  1.5 million space debris objects from greater than 1 cm to 10 cm
+  230 million space debris objects from greater than 1 mm to 1 cm

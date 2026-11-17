@@ -1,0 +1,21 @@
+pseudonym,domain,chain_roles,military_relevance,knowledge_A,information_acquisition_B,risk_practice_C,expected_targeting_D,external_requirement,reasoning_patterns
+R1,civil research,Owner,indirect,2,1,1,1,none,Not a target; Hazard frame
+R2,civil research,Operator,direct,5,4,2,2,control,Waiting for the requirement; Not my part
+R3,civil research,Operator,none,3,2,1,1,control,"Not a target; No incident, no attack; Hazard frame; Nothing can be done"
+R4,civil research,Owner;Operator;Builder,none,4,4,3,1,none,Not a target
+R5,civil research,Owner;Operator;Builder,none,4,2,3,1,none,Hazard frame; Nothing can be done
+R6,civil research,Owner;Operator;Builder,none,4,2,3,2,none,"No incident, no attack; Waiting for the requirement"
+R7,civil research,Payload supplier,indirect,3,2,2,3,none,Hazard frame
+R8,civil research,Owner;Operator;Builder,indirect,5,4,3,3,none,Not a target
+C1,commercial,Owner;Builder,none,3,1,2,3,control,Not a target; Hazard frame
+C2,commercial,Component supplier,none,2,1,1,0,none,Hazard frame; Waiting for the requirement; Not my part; Replacement beats protection
+C3,commercial,Component supplier,direct,5,4,2,4,none,"No incident, no attack; Hazard frame; Waiting for the requirement; Not my part"
+C4,commercial,Component supplier,direct,5,4,5,0,ask,Not my part
+C5,commercial,Component supplier,none,3,2,1,3,none,Not a target
+C6,commercial,Test provider,none,2,2,1,0,none,Waiting for the requirement; Not my part
+C7,commercial,Payload supplier,direct,4,5,5,4,ask,
+C8,commercial,Owner;Operator,indirect,5,4,5,4,ask,Replacement beats protection
+C9,commercial,Component supplier,unknown,2,2,1,0,none,Waiting for the requirement; Not my part
+C10,commercial,Other,none,2,1,2,1,none,Hazard frame; Replacement beats protection; Nothing can be done
+M1,military,Owner;Other,direct,5,5,5,4,ask,
+M2,military,Owner,direct,5,5,5,4,ask,
